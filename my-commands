@@ -1,0 +1,15 @@
+ 2643  git init
+ 2644  touch readme.md index.html style.css
+ 2645  git remote add origin git@github.com:jasenmichael/git-drill-1.git
+ 2646  git add index.html
+ 2647  git status
+ 2648  git commit -m "added index.html"
+ 2649  nano readme.md
+ 2650  git add -A
+ 2651  git reset
+ 2652  touch app.js && wget http://jmh-personal-site.surge.sh/img/brain-workout.gif
+ 2653  git add -A
+ 2654  git commit -m 'brain workout'
+ 2655  git log
+ 2656  git push -u origin master
+ 2657  history | tail -n 15 > my-commands

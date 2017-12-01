@@ -1,0 +1,1 @@
+Al Swearengen: Pain or damage don't end the world. Or despair, or fucking beatings. The world ends when you're dead. Until then, you got more punishment in store. Stand it like a man... and give some back.
